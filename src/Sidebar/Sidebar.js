@@ -32,6 +32,7 @@ class sidebar extends Component {
     }
 
     componentDidMount() {
+        console.log('ComponentDidMount');
         const menuItems = this.state.menuItems;
 
         let elements = document.getElementsByClassName("smenu");
