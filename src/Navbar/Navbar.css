@@ -1,0 +1,18 @@
+.navbar{
+	-webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    -ms-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    border: none;
+	background: #00897b;
+}
+.menu-btn {
+	float: left;
+	padding:15px;
+	cursor:pointer;
+}
+.site-name{
+	float:left;
+	padding: 15px;
+	color: #fff;
+}
